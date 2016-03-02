@@ -1,6 +1,7 @@
 # Difference lists
 
 List-like data structures for Clojure with O(1) concatenation.
+[![Clojars Project](https://img.shields.io/clojars/v/dlist.svg)](https://clojars.org/dlist)
 
 ## Usage
 
