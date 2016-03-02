@@ -1,4 +1,4 @@
-(defproject dlist "0.1.0-SNAPSHOT"
+(defproject dlist "0.1.0"
   :description "Difference lists"
   :dependencies [[org.clojure/clojure "1.7.0"]]
   :pedantic? :abort
